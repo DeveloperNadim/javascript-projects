@@ -1,3 +1,11 @@
+//  Salary Bonus System
+// Rules:
+
+// Service ≥ 5 years and performance is "excellent" → 20% bonus
+// Service ≥ 5 years → 10%
+// Performance "excellent" → 5%
+// Otherwise → No bonus
+
 const salary=45000;
 const yearsOfService=10;
 const performance="excellent";
