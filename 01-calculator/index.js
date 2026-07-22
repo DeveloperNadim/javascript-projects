@@ -1,6 +1,6 @@
 // Simple Calculator
-const number1=10;
-const number2=20;
+const number1=50;
+const number2=10;
 const sum=number1+number2;
 const subtract=number1-number2;
 const multiplication=number1*number2;
