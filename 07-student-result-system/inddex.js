@@ -1,3 +1,11 @@
+// Output
+/**
+ * user can see name
+ * total marks
+ * average marks
+ * grad
+ */
+
 let student={
     name:"Nadim",
     marks: [85, 90, 78, 88, 95]
